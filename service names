@@ -1,0 +1,3 @@
+spring.application.name=api_gateway
+spring.application.name=budget_resource_service
+spring.application.name=citizen_business_service
